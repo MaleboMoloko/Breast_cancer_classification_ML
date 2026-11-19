@@ -50,3 +50,8 @@ However, the confusion matrix revealed two false negatives, where malignant case
 - The model was developed and evaluated using a relatively small dataset (569 samples).
 - Although the model demonstrated strong classification performance, further evaluation using other classification algorithms could provide insights into how its performance compares with alternative models.
 - Hyperparameter tuning could also be explored to investigate whether adjusting model parameters improves classification performance.
+
+## Project Files
+
+- [Jupyter Notebook](breast_cancer_classification.ipynb) – Contains the data exploration, preprocessing, model training and evaluation.
+- [Confusion Matrix](images/confusion_matrix.png) – Visual representation of the model's classification results.

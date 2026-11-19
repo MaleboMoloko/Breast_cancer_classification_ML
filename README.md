@@ -2,7 +2,7 @@
 
 ## 1. Context
 
-Early and accurate detection of breast cancer is important for improving patient outcomes. This project explores the use of machine learning to distinguish between benign and malignant breast tumours based on measurements of cell nuclei extracted from digitised fine-needle aspiration (FNA) biopsy images.
+Early detection of cancer is important for improving patient outcomes. Distinguishing between benign and malignant breast tumors is an important part of the diagnostic process, and machine learning offers an opportunity to explore automated approaches to this task. This project investigates the use of machine learning to classify breast tumors based on measurements of cell nuclei extracted from digitized fine-needle aspiration (FNA) biopsy images.
 
 The objective was to develop a Logistic Regression model to classify tumours as either benign (non-cancerous) or malignant (cancerous).
 
